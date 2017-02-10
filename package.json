@@ -1,0 +1,12 @@
+{
+  "name": "ReactBoilerPlate",
+  "version": "1.0.0",
+  "description": "A Kickstart boilerplate app for reactJs",
+  "main": "index.js",
+  "repository": "https://github.com/ankibalyan/ReactBoilerPlate.git",
+  "author": "Ankit Balyan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
